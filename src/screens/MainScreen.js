@@ -20,7 +20,7 @@ export default class MainScreen extends Component {
       method: "GET",
       headers: {
         Authorization:
-          "563492ad6f9170000100000184c3bbd290f54ca6ae3bc0780991748f"
+          "563492ad6f91700001000001eed39284b2474795abc51313a67fc5dd"
       }
     })
       .then(response => response.json())
